@@ -1,0 +1,34 @@
+UI/UX Description
+
+This webpage represents a high-end bar and restaurant landing page focused on a sophisticated, immersive dining experience. The layout is designed with a dark, modern aesthetic, highlighted by gold accents and neon-style lighting to create a luxurious ambiance. The main screen is dominated by a wide photo of the restaurant's interior, featuring moody, atmospheric lighting and stylish furniture, immediately giving visitors a sense of the environment. On the right, there are three key blocks with relevant imagery:
+
+The Menu shows gourmet dishes on modern plating.
+
+The Reservation section uses a lifestyle shot of a customer enjoying a fine dining atmosphere.
+
+The Our Restaurant area features a wide-angle shot of the bar area for transparency and invitation.
+A fixed header includes navigation links for menu, about, and reservations. CTAs are clear, accessible, and visually distinct. Social media icons are subtly placed in the corner for modern branding. The design balances form and function for seamless user journeys, focusing on elegant visuals and intuitive navigation.​
+
+Prompts for Explaining or Cloning the UX/UI
+
+Use these prompt examples with AI coding tools, design generators, or when briefing a developer:
+
+Replit Agent/AI UI Generator Prompt:
+*"Clone the website UI from this screenshot:
+
+Use a dark, luxurious theme with gold accent highlights.
+
+Main section should have a wide, immersive hero image of the restaurant interior.
+
+Add three key right-side blocks: 'Menu' with a chef's plating photo; 'Reservation' with an elegant customer dining image; 'Our Restaurant' with a wide shot of the bar.
+
+Navigation bar at the top with logo, menu, about, and book a table.
+
+Social media icons fixed in the bottom right.
+
+Use clean, modern typography and ensure all buttons and CTAs are distinct and accessible.
+
+Ensure the design is responsive and visually impactful on both desktop and mobile displays."*
+
+Prompt for Developer/Designer:
+"Recreate a luxury restaurant website landing page with a dark modern base, neon-like gold lighting, and layered content cards for menu, reservation, and bar introduction. Prioritize high-quality imagery and an intuitive, visually immersive layout that feels upscale and welcoming."
